@@ -21,7 +21,7 @@
 | :-------------------------: | :-----------------------------: |
 | ![Sign In Page](screenshots/signin.png) | ![Dashboard Page](screenshots/dashboard.png) |
 
-*(Note: Replace `screenshots/signin.png` and `screenshots/dashboard.png` with your custom screenshots if desired).*
+
 
 ---
 
